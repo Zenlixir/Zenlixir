@@ -1,5 +1,5 @@
-<svg width="400" height="310" viewBox="0 0 400 310" xmlns="http://www.w3.org/2000/svg">
-  <rect width="400" height="310" rx="18" ry="18" fill="#1e1e1e"/>
+<svg width="400" height="320" viewBox="0 0 400 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="320" rx="18" ry="18" fill="#1e1e1e"/>
 
   <circle cx="35" cy="35" r="7" fill="#ff5f56"/>
   <circle cx="60" cy="35" r="7" fill="#ffbd2e"/>
@@ -14,7 +14,6 @@
       <text x="30" y="205">5</text>
       <text x="30" y="235">6</text>
       <text x="30" y="265">7</text>
-      <text x="30" y="295">8</text>
     </g>
 
     <g transform="translate(70, 0)">
@@ -34,7 +33,7 @@
 
       <text x="40" y="205" fill="#9cdcfe">cout</text>
       <text x="80" y="205" fill="#ffffff">&lt;&lt;</text>
-      <text x="110" y="205" fill="#ce9178">"hello world\n"</text>
+      <text x="110" y="205" fill="#ce9178">"hello world"</text>
       <text x="235" y="205" fill="#ffffff">;</text>
 
       <text x="40" y="235" fill="#9cdcfe">cout</text>
