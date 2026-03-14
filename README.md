@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://card.shiina.xyz/card/zenlixir?theme=rose&animate=true" width="320" style="border-radius:12px;"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Zenlixir/Zenlixir/main/Code.svg" width="320"/>
 </div>
 
