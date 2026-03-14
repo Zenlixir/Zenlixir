@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://card.shiina.xyz/card/zenlixir?theme=rose&animate=true" width="320" style="border-radius:12px;"/>
+<div style="width: 320px; border-radius: 12px; overflow: hidden; margin: 0 auto;">
+  <img src="https://card.shiina.xyz/card/zenlixir?theme=rose&animate=true" width="320"/>
 </div>
 
 <br/>
